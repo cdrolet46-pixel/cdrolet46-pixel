@@ -70,6 +70,11 @@ Pour ajouter un nouveau service, ajouter un bloc dans le Caddyfile et un record 
 
 Disponible dans n8n : Settings → API (ne jamais stocker en clair)
 
+## Prochains workflows a faire
+
+- [ ] Backup automatique Obsidian → GitHub (toutes les heures)
+- [ ] Rappels intelligents Google Calendar → Telegram
+
 ## Workflows n8n
 
 ### Veille Technologique Quotidienne
