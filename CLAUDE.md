@@ -70,6 +70,16 @@ Pour ajouter un nouveau service, ajouter un bloc dans le Caddyfile et un record 
 
 Disponible dans n8n : Settings → API (ne jamais stocker en clair)
 
+## Convention documentation workflows
+
+Chaque workflow dans `cdrolet46-pixel/n8n-workflows` doit avoir :
+- Le fichier JSON du workflow : `workflows/<nom>.json`
+- Un `workflows/README.md` mis a jour avec :
+  - Schema ASCII du flux
+  - Explication de chaque noeud (type, URL, role)
+  - Code JS complet des noeuds Code
+  - Tableau pour adapter le workflow
+
 ## Prochains workflows a faire
 
 - [ ] Backup automatique Obsidian → GitHub (toutes les heures)
