@@ -1,10 +1,10 @@
-# Salut, moi c'est cdrolet46-pixel 👋
+# Salut, moi c'est drovez
 
 Etudiant en techniques de l'informatique, passionne par les reseaux, la cybersecurite et le developpement d'outils web.
 
 ## Ce que je construis
 
-- **Outils interactifs HTML** — emulateurs CLI, generateurs de commandes, quiz de certification
+- **Outils interactifs HTML** — emulateurs CLI, generateurs de commandes.
 - **References reseau** — cheat sheets Cisco (switch, routeur, passerelle)
 - **Quiz de certification** — CompTIA Security+, francais
 
