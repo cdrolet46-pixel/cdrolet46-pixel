@@ -70,6 +70,13 @@ Pour ajouter un nouveau service, ajouter un bloc dans le Caddyfile et un record 
 
 Disponible dans n8n : Settings → API (ne jamais stocker en clair)
 
+## Convention README et documentation
+
+- **Jamais de longues explications** — court, direct, pas de "comment on fait ca"
+- README de profil : max 20 lignes, badges + tableau de projets + 1 ligne infra
+- README de repo : description en 1 phrase, usage, c'est tout
+- Guides techniques (ELI5, infrastructure) : dans des fichiers separes, pas dans les README
+
 ## Convention documentation workflows
 
 Chaque workflow dans `cdrolet46-pixel/n8n-workflows` doit avoir :
